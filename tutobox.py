@@ -17,7 +17,6 @@ root = tk.Tk()
 lmain = tk.Label(root)
 lmain.pack()
 e = multiprocessing.Event()
-p = None
 frame = None
 # -------begin capturing and saving video
 def startrecording(e):
