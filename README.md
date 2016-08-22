@@ -3,7 +3,7 @@ Automated video tutorial recording script
 
 # Principles 
 
-Visual interface to record videos, adding titles, logo & so on, without any difficulties (atomagically !)
+Visual interface to record videos, adding titles, logo & so on, without any difficulties (automagically !)
 
 # How to 
 
